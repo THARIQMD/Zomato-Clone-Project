@@ -126,22 +126,7 @@ u1 {
   color: #1d3557;
 }
 
-.explore__text{
-  text-align: center;
-  margin-top: 30px;
-  margin-bottom: 20px;
-  font-size: 600px;
-  font-weight: 900;
-  color: #1d3557;
-  line-height:1rem;
-  background-image: linear-gradient(
-    to right,
-    #ff512f 0%,
-     #dd2476 51%,
-     #ff512f 100%
-    );
-  z-index: -3;
-}
+
 
 .food__card__description {
   padding: 15px;
@@ -360,15 +345,6 @@ footer > ul > li {
     background-color: #F9F9F9;
   }
 
-  .explore__text{
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    font-size: 600px;
-    font-weight: 900;
-    color: #1d3557;
-    line-height:1rem;
-  }
 
   .text.x1 {
       text-align: center;
@@ -472,15 +448,7 @@ footer > ul > li {
      background-color: #F9F9F9;
    }
 
-   .explore__text{
-     text-align: center;
-     margin-top: 30px;
-     margin-bottom: 20px;
-     font-size: 600px;
-     font-weight: 900;
-     color: #1d3557;
-     line-height:1rem;
-   }
+   
 
    .text.x1{
      margin-top: 30px;
